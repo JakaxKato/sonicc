@@ -1,0 +1,2 @@
+# sonicc
+Training bot
